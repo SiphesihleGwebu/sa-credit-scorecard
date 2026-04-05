@@ -132,9 +132,9 @@ Planned improvements:
 
 ## Author
 
-Siphesihle Gwebu | Junior Management Accountant | Johannesburg, South Africa  
-BCom Accounting, University of the Free State  
-CIMA (in progress) | CFA Level 1 (planned)
+Siphesihle Gwebu | Junior Management Accountant | Johannesburg, South Africa
+BCom Accounting, University of the Free State
+AWS Certified Cloud Practitioner (in progress)
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | 
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/siphesihle-gwebu-7aa6a329b) |
+[GitHub](https://github.com/SiphesihleGwebu/sa-credit-scorecard)
